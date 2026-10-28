@@ -1,0 +1,4 @@
+notebooks/processed/
+processed/
+.ipynb_checkpoints/
+__pycache__/
